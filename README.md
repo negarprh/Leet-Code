@@ -8,7 +8,7 @@ The problems are organized into folders based on their subject matter. Each fold
 - **README.md**: Brief descriptions of the problems solved in that folder.
 
 ## Problem Categories
-- [Arrays](./Arrays): Contains problems related to arrays, such as searching, sorting, and manipulation of array elements.
+- [Arrays](./Arrays): Contains problems related to arrays, such as searching, sorting, and manipulating array elements.
 - [Math](./Math): Contains math-related problems, including divisibility, basic arithmetic, and other mathematical operations.
 
 Feel free to browse the solutions and leave feedback!
@@ -24,5 +24,6 @@ Feel free to browse the solutions and leave feedback!
 - [1. Two Sum](./Arrays/1_two_sum.py)
 - [66. Plus One](./Arrays/66_plus_one.py)
 - [412. Fizz Buzz](./Math/412_fizz_buzz.py)
+- [217. Contain Duplicate](./Arrays/217_contains_duplicate.py)
 
 Stay tuned for more solutions as I continue solving more LeetCode problems!
